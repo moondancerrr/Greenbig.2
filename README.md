@@ -1,0 +1,2 @@
+# Greenbig
+Splicing Prediction Project
